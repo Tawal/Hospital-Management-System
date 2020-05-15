@@ -1,0 +1,2 @@
+# Hospital-Management-System
+Hospital Management System is a simple desktop application developed using C# Language. The Project is based on the concept of managing hospital patient, staff records and more. Talking about the system, a user has to pass through a login system for using its features. A user can register a patient by entering his/her details such as name, gender, age, contact details, disease, status, room number, and price
